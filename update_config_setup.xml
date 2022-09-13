@@ -7,7 +7,17 @@
             <description>Chúng tôi đã cập nhật tính năng và khắc phục một số sự cố.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=mcom.app.nongdanloctroi" sparkle:version="1.1.6" sparkle:os="android" />
+        </item>
+                <item>
+            <title>Version 1.1.6</title>
+            <description>Chúng tôi đã cập nhật tính năng và khắc phục một số sự cố.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://apps.apple.com/vn/app/n%C3%B4ng-d%C3%A2n-l%E1%BB%99c-tr%E1%BB%9Di/id1602471701" sparkle:version="1.1.6" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
+
+
+
+
+         
